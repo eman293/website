@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+// To see updates on github pages:
+// commit + push to Master branch 
+// type "npm run deploy" in terminal
+
 function App() {
   return (
     <div className="App">
